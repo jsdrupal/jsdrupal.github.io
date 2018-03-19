@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Drupal modernisation initiative
+title: Drupal modernisation initiative ⬅️✌️➡️
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will show updates to the JS initiative. Please get involved!
@@ -24,7 +24,7 @@ github_username:  jsdrupal
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
