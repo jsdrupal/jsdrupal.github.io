@@ -17,7 +17,7 @@ title: Drupal modernisation initiative ⬅️✌️➡️
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will show updates to the JS initiative. Please get involved!
-baseurl: "jsdrupal" # the subpath of your site, e.g. /blog
+baseurl: "/jsdrupal" # the subpath of your site, e.g. /blog
 url: "https://jsdrupal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jsdrupal
 github_username:  jsdrupal
