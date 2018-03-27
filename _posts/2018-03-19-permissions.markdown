@@ -18,6 +18,6 @@ with the [Usability team](https://groups.drupal.org/usability)
 * A feature we managed to implement: Dynamic filtering as you type. We believe these small UX improvements can make a huge difference, as you can quickly filter for example by everything related to the "Page" content type.
 
 As you can imagine improving the user experience of Drupal is a huge undertaking. The technical side is
-actually by far the easiest bit. Coming up with good, simple but also flexible design pattterns is much harder. We need help, so please [get involved](https://jsdrupal.github.io/jsdrupal/get-involved/).
+actually by far the easiest bit. Coming up with good, simple but also flexible design patterns is much harder. We need help, so please [get involved](https://jsdrupal.github.io/get-involved/).
 
 
