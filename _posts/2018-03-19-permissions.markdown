@@ -5,12 +5,19 @@ date:   2018-03-19 18:34:49 +0000
 categories: jsdrupal planet
 ---
 
-As of today we've merged the first iteration of a better permissions page:
+This blogpost is a small incremental success we had in the JS initiative.
+Last week we merged the first iteration of a permissions page.
+Let's see what it looks like:
 
-![A better permissions UI](https://user-images.githubusercontent.com/1090713/37614021-c8b23380-2b66-11e8-80bc-fc791835d0d8.gif)
+![A gif of the new permission UI]({{ "/assets/permissions.gif" | absolute_url }})
 
-As you can see on this preview: We've added support to filtering permissions by name. This gives you an easy way to for example
-find all permissions related to users, or a specific content type.
+There are few things to point out:
 
-We started to look into actually improveing the Design / UX of this page, so please stay tuned and [Get involved](https://jsdrupal.github.io/jsdrupal/get-involved/).
+* For now it looks really similar to the permissions page in Drupal. We are looking forward to work together 
+with the [Usability team](https://groups.drupal.org/usability)
+* A feature we managed to implement: Dynamic filtering as you type. We believe these small UX improvements can make a huge difference, as you can quickly filter for example by everything related to the "Page" content type.
+
+As you can imagine improving the user experience of Drupal is a huge undertaking. The technical side is
+actually by far the easiest bit. Coming up with good, simple but also flexible design patterns is much harder. We need help, so please [get involved](https://jsdrupal.github.io/get-involved/).
+
 
